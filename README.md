@@ -1,7 +1,7 @@
 # tamaire
 ## unityのエディタ
-    Unity6 6000.0.32f1<br>
+    Unity6 6000.0.32f1
 ## unityのパッケージ
-    androiidのやつ<br>
+    androiidのやつ
 ## ゲームの概要
-    
+
